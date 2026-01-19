@@ -1,0 +1,73 @@
+---
+title: "Topic Proposal, Research Question, and Literature Review"
+format:
+    html: default
+    pdf: 
+      documentclass: article
+      fontsize: 11pt
+      colorlinks: true
+      citecolor: DarkViolet
+      linkcolor: DarkViolet
+      urlcolor: DarkViolet
+      geometry: margin=1in
+      subtitle: | 
+        | POLS299-S12 - Latine Politics in the U.S. \vspace{1em}
+        | Professor Enrique Quezada-Llanes \vspace{-3em}
+---
+
+:::{.callout-important}
+Due February 20 at 11:59 pm on Canvas
+:::
+
+
+## Purpose
+
+The goal of this assignment is to learn how to formulate a research question and find peer-reviewed sources that are relevant to that question.
+
+
+## Task
+
+For this first part of the research design paper, you must do two things:
+
+1. Submit one paragraph (between 2 and 5 sentences) proposing a topic and research question for your final paper.
+2. Submit a list of at least five peer-reviewed journal articles for your literature review.
+
+### Topic and Research Question
+
+Briefly introduce the topic you are interested in and formulate a research question. Remember that research questions can take different forms. For example, you might see the following:
+
+1. What is the effect of *x* on *y*?
+2. Why do some people (community or policy) do one thing and others do another thing?
+3. How does *x* relate to *y*?
+
+Scholars have different preferences for how a question is best formulated, and the *same question can be reworked to fit several constructions*. For example, in a co-authored project my colleagues and I ask, "do Hispanic voters care if a political candidate speaks to them in Spanish and does it matter how proficient the candidate sounds?" This two-part question fits both the first and third examples. If we knew that some Spanish-language appeals from candidates are more successful than others, we could have asked, "why are some Spanish-language appeals effective while others are not?" Now it looks more like the second example.
+
+Whatever construction you choose for now, think about what kind of answer there might be to your questions and why. Choose something that interests you and that you really want to know.
+
+
+### List of Literature
+
+Submit a list of at least five peer-reviewed journal articles^[The articles you cite must come from peer-reviewed journals. This means that these articles have been reviewed by scholars (other than the authors) who study similar topics and who have deemed the article, along with the journal editors, acceptable for publication.] for your literature review or final paper.
+
+The goal is to help you get started on identifying the literature you need to engage with for your research project. By conducting research, you are entering a conversation with other academics, so you must be familiar with the ideas and findings that are already out there.
+
+
+## Criteria for Success
+
+In order to obtain full points for this assignment you must do the following:
+
+1. Discuss a topic related to Latines in American politics.
+2. List at least five peer-reviewed journal articles using the full citation in **APSA** style (only use one). 
+3. Double check the citations. Do not rely completely on an online generator!
+4. (Optional) Write down the keywords you used for your search (this can assist me in suggesting additional terms)
+
+
+## How do you find those peer-reviewed journal articles?
+
+While this may be a challenging step, start by thinking about your outcome of interest (dependent variable) and your explanatory variable (independent variable). Now, you have two keywords for your project that you can look up on an academic database (e.g., Google Scholar). 
+
+**Example:** if I am interested on the relationship between national origin and partisanship among Latinos, I would want to search for "national origin," "partisanship," and "Latino." I would try different combinations of these terms because you need to know the impact of national origin on different outcomes as well as the predictors of partisanship beyond national origin.
+
+
+
+

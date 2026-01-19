@@ -1,0 +1,29 @@
+---
+title: "Week 4: (Dis)-Unity Among Latines"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 4 - (Dis)-Unity Among Latines
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+### Monday, February 9
+
+- Sanchez, Gabriel, Natalie Masuoka, and Brooke Abrams. 2019. "Revisiting the Brown-Utility Heuristic: A Comparison of Latino Linked Fate in 2006 and 2016." *Politics, Groups, and Identities* 7(3): 673–83. {{< fa brands dropbox >}}
+
+- Garcia-Rios, Sergio, Francisco Pedraza, and Bryan Wilcox-Archuleta. 2019. "Direct and Indirect Xenophobic Attacks: Unpacking Portfolios of Identity." *Political Behavior* 41(3): 633–56. {{< fa brands dropbox >}}
+
+
+
+### Wednesday, February 11
+
+- Hickel, Flavio Rogerio, Kassra A R Oskooii, and Loren Collingwood. 2024. "Social Mobility through Immigrant Resentment: Explaining Latinx Support for Restrictive Immigration Policies and Anti-Immigrant Candidates." *Public Opinion Quarterly* 88(1): 51–78. {{< fa brands dropbox >}} {{< fa pen >}}
+
+
+
+
+ 

@@ -1,0 +1,28 @@
+---
+title: "Week 3: A Distinct Group?"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 3 - A Distinct Group?
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+### Monday, February 2
+
+- Mora, G. Cristina. 2014. "Civil Rights, Brown Power, and the "Spanish-Speaking" Vote." In *Making Hispanics: How Activists, Bureaucrats, and Media Constructed a New American,* 17-49. Chicago: The University of Chicago press. {{< fa book >}}
+
+
+### Wednesday, February 4
+
+- Omi, Michael, and Howard Winant. 2015. *Racial Formation in the United States. Third edition.* New York London: Routledge Taylor & Francis Group. Chapter 4. {{< fa brands dropbox >}}
+
+- Zepeda-Millán, Chris, and Sophia J. Wallace. 2013. "Racialization in Times of Contention: How Social Movements Influence Latino Racial Identity." *Politics, Groups, and Identities* 1(4): 510–27. {{< fa brands dropbox >}} {{< fa pen >}} 
+
+
+
+
+

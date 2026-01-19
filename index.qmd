@@ -1,0 +1,278 @@
+---
+title: "POLS 299-S12: Latine Politics in the U.S."
+format:
+    html: default
+    pdf: 
+      documentclass: article
+      fontsize: 12pt
+      colorlinks: true
+      citecolor: DarkViolet
+      linkcolor: DarkViolet
+      urlcolor: DarkViolet
+      geometry: margin=1in
+      output-file: "POLS299-S12_syllabus"
+---
+
+```{r setup, message=FALSE, warning=FALSE, include=FALSE}
+library(dplyr)
+library(tibble)
+library(pander)
+```
+
+::: {.content-visible when-format="pdf"}
+
+\begin{center}
+
+\vspace{-5em}
+
+\url{ {{< var course.url >}} } \vspace{-1ex}
+
+{{< var course.time >}} {{< var course.days >}} \vspace{-1ex}
+
+{{< var course.location >}} \vspace{-1ex}
+
+{{< var course.semester >}}
+
+\end{center}
+
+
+## Instructor
+
+{{< var instructor.name >}} \vspace{-1ex}
+
+Email: [{{< var instructor.email >}}](mailto:{{< var instructor.email >}}) \vspace{-1ex}
+
+Office: {{< var instructor.office >}} \vspace{-1ex}
+
+Office hours: [WF 1:00-3:00 pm]({{< var instructor.appointment_url >}}) and by appointment
+
+:::
+
+
+::: {.content-visible when-format="html"}
+
+::: {.grid .course-details .course-details-smaller}
+
+::: {.g-col-6}
+### Course details
+
+- {{< fa calendar >}} &nbsp; {{< var course.days >}}
+- {{< fa calendar-alt >}} &nbsp; {{< var course.dates >}}
+- {{< fa clock >}} &nbsp; {{< var course.time >}}
+- {{< fa location-dot >}} &nbsp; {{< var course.location >}}
+:::
+
+::: {.g-col-6}
+### Instructor
+
+- {{< fa user >}} &nbsp; [{{< var instructor.name >}}]({{< var instructor.url >}})
+- {{< fa university >}} &nbsp; {{< var instructor.office >}}
+- {{< fa envelope >}} &nbsp; [{{< var instructor.email >}}](mailto:{{< var instructor.email >}})
+- {{< fa university >}} &nbsp; Office hours: [WF 1:00-3:00 pm]({{< var instructor.appointment_url >}}) and by appointment
+:::
+
+:::
+
+
+
+# Syllabus
+
+You can download a PDF version of the syllabus with the weekly schedule here.
+ 
+[<span class="btn btn-danger">{{< fa file-pdf >}} Syllabus </span></p>](POLS299-S12_syllabus.pdf)
+
+
+
+:::
+
+
+## Course Overview
+
+This course will provide an overview of how Latines interact with, relate to, and find representation in the American political system. The course is framed around four big questions and each week we will focus on a specific topic relating to one of those questions. We will discuss Latine identity, identifying and describing the demographics of this population as well as analyzing the extent to which Latines have politicized identities. We will also analyze historical and demographic trends, including immigration patterns and policies as well as Chicano social and labor movements. The course will cover Latine public opinion, partisan affiliations, voting patterns, and representation. Lastly, we will examine the role of Latines in recent elections and the potential for multiracial and multiethnic coalitions.
+
+
+## Learning Outcomes
+
+- Develop an understanding of the complexity of Latine identity in the United States
+- Situate Latine politics in the United States in historical and sociopolitical context
+- Think critically about the interactions between Latine political behavior and American political institutions
+- Apply the theories and concepts from research on Latine politics to current events
+
+
+## Work and Assessment
+
+### Required Text:
+
+- Mora, G. Cristina. 2014. *Making Hispanics: How Activists, Bureaucrats, and Media Constructed a New American.* Chicago: The University of Chicago press.
+
+  All other required readings are linked below or are stored in a Dropbox folder ({{< fa brands dropbox title="Available on Dropbox folder" >}}). I will provide the link to the folder via Canvas.
+
+
+### Course Expectations
+
+Students are expected to attend class and participate during class discussions. This course has both a lecture and a discussion component. The lectures will incorporate the readings assigned for that day/week. I expected you will have completed all readings prior to class and will come prepared with comments and questions. Readings can be accessed through the library resources or, when not available through the library, via Canvas.
+
+- <ins>*A note of caution:*</ins> many, if not most, of the readings come from academic journals and books, mostly from political science but also from sociology. You will find that many of the articles are quite technical and they can be hard to follow even when one is familiar with the methodology. Do not despair. Make sure to understand, and wrestle with, the main ideas presented in a piece. Pay attention as well to how the authors support their arguments with data without getting bogged down by technical details.
+
+### Course Workload
+
+As a course with a course count of one, you are expected to spend 8-10 hours of work each week (not including our two 75-minute weekly course meetings).
+
+
+### Assignments and grades
+
+Final course grades will be assigned as follows:
+
+```{r grades, include=FALSE}
+grading <- tribble(
+  ~Grade, ~Range, ~Grade1, ~Range1,
+  "A",  "94–100%", "C",  "74–76%",
+  "A−", "90–93%", "C−", "70–73%",
+  "B+", "87–89%", "D+", "67–69%",
+  "B",  "84–86%", "D",  "64–66%",
+  "B−", "80–83%", "D−", "60–63%",
+  "C+", "77–79%", "F",  "< 60%"
+)
+```
+
+<div class="centered-table">
+
+```{r show-grades-table, echo=FALSE, results="asis"}
+grading %>%
+  pandoc.table(justify = "lclc",
+               col.names = c("Grade", "Range", "Grade", "Range"))
+```
+
+<div>
+
+
+Final grades will be calculated based on the following components:
+
+**Participation (10%)**: All students are expected to be active participants in class discussions. Our learning experience will be enhanced if you come prepared and ready to share your comments, insights, and/or questions from the material covered in the lectures and readings with the rest of the class.
+
+  - <ins>*Attendance policy:*</ins> Attendance is part of your participation grade, and while there is no separate grade for attendance it is a prerequisite for in-class participation. That said, to accommodate unforeseeable circumstances, you have two *unexcused* absences that will not affect your participation grade. Any additional absences will hurt your participation grade. If you accumulate four *unexcused* absences in the semester, you will forfeit your entire participation grade. Note that students who are absent, whether excused or not, are still expected to submit the weekly summary corresponding to that class period. (Absences due to extenuating circumstances will be considered separately. Please refer to the [College's Class Attendance Policy](https://catalog.holycross.edu/requirements-policies/academic-policies/#coursepoliciestext-otp2) for the college-wide policy on absences and be in communication if a situation that will keep you from attending class for an extended period of time arises.)
+
+
+**Weekly summaries (15%)**: Each week for 10 weeks, you will summarize one article from the week's readings (the reading assgined for a summary has a {{< fa pen >}} after it in the course schedule). There are 13 weeks in the semester where you can write a summary, so you can skip 3 weeks. It is up to you to decide which weeks to skip. The summary must be **no longer** than three-quarters of a page (single-spaced, 12-point font). These summaries must be submitted on Canvas before class time *on the day the reading was assigned*. Please see the [guide](resource/summaries.qmd) on the course website for the format of these summaries.
+
+
+**Response Paper and Discussion Contributions (15%)**: Students will select one week when they will be responsible for two deliverables: (1) quotes and/or discussion questions from the week's readings to be submitted and (2) a response paper (3-4 double-spaced pages, 12-point font) where they integrate the readings and the class discussion. In the response paper, you will highlight the connections between the readings, summarize the most important parts of class discussion, write about the readings' applicability to current events, and offer a critique of the readings as a whole. You may choose to focus more on applicability to the present day or on a critique of existing research. The quotes and questions are due Monday at noon and the response paper is due Friday at 11:59 pm of the week you choose.
+
+
+**Research Design Paper (30% total)**: Students will propose a research design to answer a question of interest. This paper must include an introduction, a literature review that situates the present question in the broader field, an answer to the question (the argument/theory), and a proposed design to answer the question. Students should meet with the instructor to discuss the paper and think about how one might design a study to answer the question of interest. This paper will be broken down into different parts that will be due throughout the semester.
+
+
+**Midterm and Final Exam (15% each)**: There will be a midterm and final exam where you will answer three medium-length questions. Both the midterm and final exams will be in-person. These exams will assess your familiarity with the terms and theories in the religion and politics literature that we will have covered in class.
+
+
+
+## Course Conduct
+
+In this class, we will discuss politics *and* the people who participate (or not) in politics, and we will do so in a respectful environment. As in bound to be the case when we talk about politics, we may discuss topics that might be controversial or of a sensitive nature for some or all in our group. Our goal in this class is to have constructive discussions about the politics of Latines in the United States. Derogatory comments toward other students will not be tolerated.
+
+
+
+## Communication Policy
+
+If you have questions about class in general or about a specific assignment, you can email me or come by my office. You can expect a response within 24 hours (unless you email me on Friday). Students are also more than welcome to attend office hours, as this is time set aside specifically for you. In addition, if my office door is open, feel free to stop by. Please note that I will not be "pre-grading" assignments, but I am happy to answer clarifying questions about them either via email or, preferably, during office hours.
+
+
+## Regrading Policy
+
+If a student wishes to appeal a grade, they must do so in writing within one week of receiving their graded assignment back. The student must indicate clearly what part of the assignment's grading they disagree with, making sure to respond to the instructor's comments in that section and making their case for why they should not have been deducted points. These requests should be done via email and the subject name should read "POLS 299-S12 Regrading request - [Name of assignment]." 
+
+
+## Academic Integrity and Generative AI Policy
+
+All education is a cooperative enterprise between faculty and students. This cooperation requires trust and mutual respect, which are only possible in an environment governed by the principles of academic integrity. As an institution devoted to teaching, learning, and intellectual inquiry, Holy Cross expects all members of the College community to abide by the highest standards of academic integrity. Any violation of academic integrity undermines the student-faculty relationship, thereby wounding the whole community. Students in this class are required to read the full text of the [College’s Academic Integrity Policy](https://catalog.holycross.edu/requirements-policies/academic-policies/#academicintegritytext) and to abide by its standards.
+
+
+Unless otherwise noted, you are expected to complete all coursework independently without the use of generative AI tools (e.g., ChatGPT, Claude, Gemini). Because this course emphasizes using writing as a tool for learning and a vehicle for developing a unique writerly voice, using AI tools runs counter to our goals for writing assignments. Because the assumption in this course is that all writing students submit is original to them, cases where students turn in AI-generated content will be considered cheating.
+
+
+
+
+## Course Accessibility and Academic Accommodations
+
+
+The College of the Holy Cross is committed ["to providing students with disabilities equal access to the educational opportunities and programs available at Holy Cross in accordance with the Americans with Disabilities Act of 1990 as amended, Section 504 of the Rehabilitation Act of 1973, and Massachusetts laws."](https://catalog.holycross.edu/requirements-policies/academic-policies/#coursepoliciestext)
+
+Any student who feels the need for accommodation based on the impact of a disability should contact the [Office of Accessibility Services](https://www.holycross.edu/community/health-wellness/accessibility-accommodations) to discuss support services available. Once the office receives documentation supporting the request for accommodation, the student would meet privately with Accessibility Services to discuss reasonable and appropriate accommodations.
+
+The office can be reached by calling 508-793-3693. If you are already registered with Accessibility Services, please be sure to get your accommodation letters and deliver them to your instructors in a timely fashion. Instructors need at least 4-5 days advance notice to be able to facilitate the process of receiving testing accommodations.
+
+
+
+## Wellbeing and Mental Health
+
+The wellbeing and mental health of students is important. If you are having trouble managing your coursework and are experiencing unusual amounts of stress, sadness, or anxiety, the College has resources you may find useful. Please reach out to [Student Wellness Education](https://www.holycross.edu/community/health-wellness/student-wellness-education) or the office of [Counseling and Psychological Services](https://www.holycross.edu/community/health-wellness/counseling-psychological-services).
+
+
+## Title IX
+
+If you have experienced any form of sexual harassment or violence, dating or domestic violence, or stalking, please talk to any faculty or staff member with whom you feel comfortable. Faculty and staff members want to support you and have been trained to help. They will also inform the Title IX office so that you learn about options available to you. If you do not want college administrators to know what you have experienced, you may speak to a chaplain or counseling services with complete confidentiality. They will not tell anyone what you share with them unless you give your express permission. You may contact the Title IX Office directly at <titleix@holycross.edu>.
+
+
+## Chosen Names and Personal Pronouns
+ 
+Everyone has the right to be addressed by the name and pronouns that correspond to their gender identity. Rosters do not list gender or pronouns, so you may indicate the pronouns you use so that I don't make assumptions based on your name and/or appearance/self-presentation. If you use a chosen name, please let me know. Chosen names and pronouns are to be respected at all times in the classroom. Mistakes in addressing one another may happen, so I encourage an environment of openness to correction and learning. I will not however, tolerate repeated comments which disrespect or antagonize students who have indicated pronouns or a chosen name.
+
+
+## Center for Writing and Writer's Workshop
+
+The Center for Writing offers one-on-one appointments with trained peer consultants trough their Writer's Workshop who can help you improve your communication skills. You are encouraged to use this resource when working on your class assignments to make your arguments more compelling, your sentences clearer, and persistent grammatical errors nonexistent. You can schedule an appointment at <https://holycross.mywconline.com/>.
+
+
+
+## Recording of Classes
+
+Please note that, consistent with applicable federal and state law, this course may be video/audio recorded as an accommodation *only* with permission from the Office of Accessibility Services. Students are not permitted to record the contents of this class under any other circumstances.
+
+
+
+## Syllabus Change Policy
+
+This syllabus is only a guide for the course and is subject to change with advanced notice.
+
+
+::: {.content-visible when-format="pdf"}
+  
+## Schedule
+
+{{< include content/01-week1.qmd >}}
+
+{{< include content/02-week2.qmd >}}
+
+{{< include content/03-week3.qmd >}}
+
+{{< include content/04-week4.qmd >}}
+
+{{< include content/05-week5.qmd >}}
+
+{{< include content/06-week6.qmd >}}
+
+{{< include content/07-week7.qmd >}}
+
+{{< include content/08-week8.qmd >}}
+
+{{< include content/09-week9.qmd >}}
+
+{{< include content/10-week10.qmd >}}
+
+{{< include content/11-week11.qmd >}}
+
+{{< include content/12-week12.qmd >}}
+
+{{< include content/13-week13.qmd >}}
+
+{{< include content/14-week14.qmd >}}
+
+{{< include content/15-week15.qmd >}}
+
+{{< include content/16-week16.qmd >}}
+
+{{< include content/17-week17.qmd >}}
+
+:::
+
+{{< include index_title.qmd >}}

@@ -1,0 +1,30 @@
+---
+title: "Week 6: Historical Context (cont.) and Midterm Exam"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 6 - Historical Context (cont.) and Midterm Exam
+
+:::
+
+[//]: <> (Need to write intro. Add something about making tables and graphs)
+
+
+### Monday, February 23
+
+- PBS. "The Farm Worker Movement." [{{< fa link >}}](https://gpb.pbslearningmedia.org/resource/df492426-ffec-4eef-bed1-caca19c08b41/the-farm-worker-movement/)
+
+- (read or listen:) Saldana, Sean. 2022. "The complicated legacy of César Chávez." KUT News, October 17. [{{< fa link >}}](https://www.kut.org/texasstandard/2022-10-17/cesar-chavez-complicated-legacy-united-farm-workers-immigration)
+
+- Beltrán, Cristina. 2010. "El Pueblo Unido: Visions of Unity in the Chicano and Puerto Rican Movements" In *The Trouble with Unity: Latino Politics and the Creation of Identity,* 21-55. New York, NY: Oxford University Press. {{< fa book >}} {{< fa pen >}}
+
+
+### Wednesday, February 25
+
+- Midterm Exam
+
+
+
+
+

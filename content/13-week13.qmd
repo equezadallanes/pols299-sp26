@@ -1,0 +1,36 @@
+---
+title: "Week 13: The Parties and Latines"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 13 - The Parties and Latines
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+
+
+### Monday, April 13
+
+- Fraga, Bernard L., Yamil R. Velez, and Emily A. West. 2025. "Reversion to the Mean, or Their Version of the Dream? Latino Voting in an Age of Populism." *American Political Science Review* 119(1): 517–25. {{< fa brands dropbox >}}
+
+- Garcia-Navarro, Lulu. 2025. "Senator Ruben Gallego Wants Democrats To Be Less Afraid." *The Interview* [podcast], February 15. [{{< fa podcast >}}](https://youtu.be/85qWjka-Bmg?si=5nawDK20LMG6fjXm)
+
+
+### Wednesday, April 15
+
+- Wakefield, Derek, Bernard L. Fraga, and Colin A. Fisk. 2025. "Partisan Change with Generational Turnover: Latino Party Identification from 1989 to 2023." *The Journal of Race, Ethnicity, and Politics* 10(3): 766–90. {{< fa brands dropbox >}} {{< fa pen >}}
+
+
+
+
+:::{.callout-important}
+
+### Deadline
+
+[Theory and Research Design](/assignment/research-project3.qmd) due Friday, April 17, at 11:59 pm on Canvas
+
+:::

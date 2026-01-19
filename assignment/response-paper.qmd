@@ -1,0 +1,47 @@
+---
+title: "Response Paper"
+format:
+    html: default
+    pdf: 
+      documentclass: article
+      fontsize: 11pt
+      colorlinks: true
+      citecolor: DarkViolet
+      linkcolor: DarkViolet
+      urlcolor: DarkViolet
+      geometry: margin=1in
+      subtitle: | 
+        | POLS299-S12 - Latine Politics in the U.S. \vspace{1em}
+        | Professor Enrique Quezada-Llanes \vspace{-3em}
+---
+
+:::{.callout-important}
+## Deadline
+
+Due on the Friday of the chosen week at 11:59 pm on Canvas
+:::
+
+
+
+## Purpose
+
+This assignment will help you think more deeply about a specific topic in Latine politics and make connections between different readings, class discussion, and current events.
+
+
+## Task
+
+You will write a response paper (3-4 double-spaced pages, 12-point font) where you integrate the readings for a given topic. In the response paper, you will highlight the connections between the readings, summarize the most important parts of class discussion, write about the readings' applicability to current events, and offer a critique of the readings as a whole. You may choose to focus more on applicability to today or a critique of existing research. Make sure to strike a good balance between summarizing the readings and finding the connections between them.
+
+
+
+## Criteria for Success
+
+A successful essay will:
+
+1. Briefly summarize each of the readings
+2. Highlight connections between readings and class discussion
+3. Discuss how the readings apply to our understanding of Latine politics today
+4. Have a coherent structure and no grammar errors.
+
+
+

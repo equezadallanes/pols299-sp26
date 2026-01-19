@@ -1,0 +1,31 @@
+---
+title: Guidelines for Capitalization, Punctuation, and Writing Numbers
+---
+
+Here are some useful resources to understand some rules and style guides around capitalization, proper nouns, quotation marks, and writing numbers. As some of these articles point out, these rules may vary by style guide (especially when it comes to numbers), but they are rules that are broadly applicable. It is also important to keep in mind that these rules are about writing in English. If you read and write in a different language, you may notice there are variations.
+
+
+First, this is about capitalization in general:
+
+- Capitalization Rules [{{< fa arrow-up-right-from-square >}}](https://www.grammarly.com/blog/capitalization-rules/)
+ 
+
+This one is specifically about proper nouns:
+
+- Proper Nouns [{{< fa arrow-up-right-from-square >}}](https://www.grammarly.com/blog/proper-nouns/)
+ 
+
+This one is about political terms:
+
+- Political Terms [{{< fa arrow-up-right-from-square >}}](https://www.btb.termiumplus.gc.ca/tpv2guides/guides/wrtps/index-eng.html?lang=eng&lettr=indx_catlog_c&page=92qEvn94HDfI.html)
+ 
+
+Now, a couple of resources for using italics and quotation marks with other punctuation:
+
+- Quotation Marks and Italics in Titles [{{< fa arrow-up-right-from-square >}}](https://www.grammarly.com/blog/quotation-marks/)
+- Quotation Marks and Punctuation [{{< fa arrow-up-right-from-square >}}](https://owl.purdue.edu/owl/general_writing/punctuation/quotation_marks/more_quotation_mark_rules.html)
+ 
+
+And, finally, this last one is about writing numbers:
+
+- Writing Numbers in English [{{< fa arrow-up-right-from-square >}}](https://www.scribendi.com/academy/articles/when_to_spell_out_numbers_in_writing.en.html)

@@ -1,0 +1,64 @@
+---
+title: "Schedule"
+slug: schedule
+toc: false
+sidebar: false
+---
+
+```{r packages-data, include=FALSE} 
+library(tidyverse)
+library(knitr)
+library(kableExtra)
+library(lubridate)
+library(glue)
+
+schedule <- read_csv("../data/schedule.csv", show_col_types = FALSE) 
+```
+
+Here you can find the schedule for the semester with links to the list of readings for each week. In addition you'll find links to instructions for the assignments in this course.
+
+
+Here's a guide to the schedule:
+
+- **Materials** ({{< fa book-open-reader >}}): These pages contain the readings and other information (if any) for the entire week.
+- **Assignment** ({{< fa pen-ruler >}}): These pages contain the instructions for each assignment.
+
+
+ 
+```{r build-table, echo=FALSE, results="asis"}
+schedule <- schedule %>%  
+    mutate(var_title = glue('{title}')) %>%
+    mutate(var_deadline = ifelse(!is.na(deadline),
+                                 glue('&emsp;&emsp;<small>(submit by {deadline})</small>'),
+                                 glue(""))) %>%
+    mutate(var_content = ifelse(!is.na(content),
+                                glue('<a href="{content}.qmd"><i class="fa-solid fa-book-open-reader fa-lg"></i></a>'),
+                                glue('<font color="#e9ecef"><i class="fa-solid fa-book-open-reader fa-lg"></i></font>'))) %>%
+    mutate(var_assignment = ifelse(!is.na(assignment),
+                                   glue('<a href="{assignment}.qmd"><i class="fa-solid fa-pen-ruler fa-lg"></i></a>'),
+                                   glue('<font color="#e9ecef"><i class="fa-solid fa-pen-ruler fa-lg"></i></font>'))) %>%
+    mutate(col_date = ifelse(is.na(date_end),
+                             glue('<strong>{format(as.Date(date, "%m/%d/%y"), "%B %e")}</strong>'),
+                             glue('<strong>{format(as.Date(date, "%m/%d/%y"), "%B %e")}</strong>–<strong>{format(as.Date(date_end, "%m/%d/%y"), "%B %e")}</strong>'))) %>%
+    mutate(col_title = glue('{var_title}{var_deadline}')) %>%
+    mutate(col_content = var_content,
+           col_assignment = var_assignment) %>%
+  select(Week = week, Date = col_date, Title = col_title, Materials = col_content,
+          Assignment = col_assignment) 
+
+week_count <- schedule |> count(Week)
+week_index <- week_count |> pull(n) |> set_names(paste0("Week ", week_count$Week))
+ 
+tbl <- schedule |>
+  select(-Week) |>
+  kbl(escap = FALSE, align = "rlccc", table.attr = 'class="schedule-table"') |>
+  kable_styling() |>
+  column_spec(1, width = "30%", extra_css = "padding-right: 20px;") |>  
+  column_spec(2, width = "50%") |>  
+  column_spec(c(3:4), width = "10%") |>
+  pack_rows(index = week_index,
+              label_row_css = "border-bottom: 2px solid #000000;")
+
+  cat(tbl)
+```
+  

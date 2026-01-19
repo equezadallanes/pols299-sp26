@@ -1,0 +1,51 @@
+---
+title: "Literature Review"
+format:
+    html: default
+    pdf: 
+      documentclass: article
+      fontsize: 11pt
+      colorlinks: true
+      citecolor: DarkViolet
+      linkcolor: DarkViolet
+      urlcolor: DarkViolet
+      geometry: margin=1in
+      subtitle: | 
+        | POLS299-S12 - Latine Politics in the U.S. \vspace{1em}
+        | Professor Enrique Quezada-Llanes \vspace{-3em}
+---
+
+:::{.callout-important}
+Due March 27 at 11:59 pm on Canvas
+:::
+
+
+
+## Purpose
+
+The goal of this assignment is to help you integrate various pieces of research. This involves summarizing, finding connections between articles, and identifying key limitations in existing work.
+
+
+## Task
+
+Write a 3- to 5-page literature review on the topic of your choice within the area of Latine politics (12-point font, double-spaced, 1-inch margins).
+
+A literature review is a piece of writing that summarizes existing academic research on a given topic. It is, however, not a collection of summaries about each article (that would be an annotated bibliography). Instead, a literature review conveys what these works say together and identifies gaps in the literature. In other words, it shows what we know about something but also highlights what we don't yet know.
+
+For this assignment, provide an introduction to the literature review. Tell the reader why this topic is important and how you will approach it (i.e., "In this literature review, I will discuss X, Y, and Z").
+
+
+## Criteria for Success
+
+A successful literature review will:
+
+1. Have a clear introduction, stating the importance of the topic and providing a roadmap.
+2. Use strong and clear topic sentences to convey the key points.
+3. Have a coherent structure (e.g., address what we know before moving on to the limitations)
+4. Identify limitations of existing work (e.g., is the data too old? Are existing theories missing something important? Are the measures not appropriate for the question?)
+
+
+## Guide to Writing a Literature Review
+
+Check out this [guide on writing a literature review in political science](https://guides.library.ucsc.edu/write-a-literature-review).
+

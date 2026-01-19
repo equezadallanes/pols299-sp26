@@ -1,0 +1,49 @@
+---
+title: "Writing a Summary"
+---
+
+
+> This is a little example of what a summary can look like (**purpose/argument**). Many students struggle to write summaries, and they end up outlining a text instead of summarizing the main points (**context/relevance**). To solve this, I am creating a page that includes questions a summary should answer, one abstract example of a summary, and two summaries of journal artices to help students write their summaries (**method**). Students read and referenced this page throughout the course (fingers crossed!) to write fantastic summaries of political science research (**results**). This shows that students only need a little guidance to achieve good results (**implications**).
+
+
+Writing a summary may seem to some like an easy task, while others might find it daunting. I think it's both. Understanding what should go in a summary is crucial. This will not only help you write more useful summaries, but it will also help you become a more intentional reader.
+
+A summary should help you or someone else understand the **main points** of the piece as well as some of its **context.** It should answer the following questions:
+
+1. What is the main purpose of the text? Why do the author(s) seek to do?
+2. Why is this question/piece relevant according to the author(s)?
+3. What do the author(s) argue?
+4. How do the author(s) reach their conclusions? What evidence do they provide?
+5. What are the main findings? What is the main conclusion of the text? 
+
+
+I would argue that a good summary for a journal article can be short (~5 sentences) or a bit longer (three-quarters of a page), depending on the level of detail that is required. For this class, anything in between these two lengths will suffice. I care much more about the *content* of the summary than its length.
+
+
+
+### Example 1 - Summary of journal article
+
+Francis, R. W. (2006). Using Concept Maps as Assessment Tools: Defining Understanding. *College Quarterly*, 9(3), n3.^[This citation follows the APA citation style.]
+
+This article seeks to establish how concept maps can be useful for assessing understanding. Because concept maps structure knowledge, they can reveal how much students know and how they connect the ideas and concepts they have learned. To assess how many concepts and links between these concepts show understanding and breadth, the study uses upper-level education students and asks them to create concept maps for “effective teaching.” The resulting concept maps are divided into four levels and the conclusion is that concept maps that show breadth and depth of understanding have as many entries as the number of links to the main idea multiplied by ten. Although this research points in the opposite direction and its results do not seem generalizable (a good concept map may be denser or sparser depending on the discipline), it may be a good assessment tool and a way to show whether students who perform better have more structured, full concept maps.
+
+
+### Example 2 - Longer summary of journal article
+
+Wald, Kenneth D., Dennis E. Owen, and Samuel S. Hill. 1988. “Churches as Political Communities.” *American Political Science Review* 82(2): 531–48.^[This citation follows the APSA citation style.]
+
+Wald, Owen, and Hill examine how an individual’s religious context affects their political attitudes. More specifically, the authors focus on how the religious beliefs of a congregation as a whole influence individual church members’ levels of moral conservatism and conservative ideology. Given the leadership structure and the repeated interactions between members of a church community, congregations represent a powerful social context for the dissemination of information and the enforcement of norms. As a competing explanation, the authors explore the influence of individual-level theology alongside congregational-level beliefs to ascertain whether an individual’s political attitudes are best explained by their own religious beliefs or those of their congregation. 
+
+To test their theory of congregational influence, the authors contacted churches in Gainesville, Florida, and obtained 657 completed surveys from 21 different congregations. The authors constructed a moral conservatism index by aggregating individual attitudes on issues such as abortion, homosexuality, birth control, drugs, and interracial marriage. Political ideology was measured through a standard self-placement measure on a 5-point scale, ranging from strongly liberal to strongly conservative. As their explanatory variable, theological conservatism taps into views about the Bible and evangelism as well as a respondent's "born-again" experience. To obtain measures of moral, political, and theological conservatism at the congregation level, the authors calculate the average of the individual responses from each congregation.
+
+In a series of multivariate regression analyses, the authors find that the more conservative the religious beliefs of a congregation the higher their levels of moral conservatism will be for both the congregation and the individuals. Although to a lesser extent, the same pattern holds when using political conservatism, measured through self-reported ideology, as the dependent variable. Additionally, while individual religious beliefs are also correlated with political attitudes, the impact of personal theology is not as large as that of the congregation’s theology. These results hold after accounting for individual-level characteristics such as partisanship, education, race, and age, and the possibility of individuals self-selecting into like-minded congregations. The findings underscore the importance of group-level influences on individual political attitudes.
+
+
+#### Structure
+
+Notice the structure:
+
+1. The first paragraph provides the main argument and tell us where the piece is situated in the literature.
+2. The second paragraph tells us the methodology the authors use to evaluate their argument.
+3. The third paragraph tells us the most important findings and what they mean.
+

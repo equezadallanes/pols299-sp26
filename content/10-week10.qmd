@@ -1,0 +1,42 @@
+---
+title: "Week 10: Foundations of Latino Partisanship"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Q3: Are Democrats the Party of Latines?
+
+## Week 10 - Foundations of Latino Partisanship
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+
+
+### Monday, March 23
+
+- Alvarez, R. Michael, and Lisa García Bedolla. 2003. "The Foundations of Latino Voter Partisanship: Evidence from the 2000 Election." *The Journal of Politics* 65(1): 31–49. {{< fa brands dropbox >}}
+
+- Carlos, Roberto F. 2018. "Late to the Party: On the Prolonged Partisan Socialization Process of Second-Generation Americans." *The Journal of Race, Ethnicity, and Politics* 3(2): 381–408. {{< fa brands dropbox >}} {{< fa pen >}}
+
+
+
+### Wednesday, March 25
+
+- Pérez, Efrén, Jessica Hyunjeong Lee, and Gustavo Mártir Luna. 2025. "Partisans of Color: Asian American and Latino Party ID in an Era of Racialization and Polarization." *American Political Science Review* 119(4): 1599–1615. {{< fa brands dropbox >}}
+
+
+
+
+:::{.callout-important}
+
+### Deadline
+
+[Literature Review](/assignment/research-project2.qmd) due Friday, March 27, at 11:59 pm on Canvas
+
+:::
+
+
+

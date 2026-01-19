@@ -1,0 +1,28 @@
+---
+title: "Week 11: Representation"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 11 - Representation
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+
+
+### Monday, March 30
+
+- Wallace, Sophia J. 2014. "Representing Latinos: Examining Descriptive and Substantive Representation in Congress." *Political Research Quarterly* 67(4): 917–29. {{< fa brands dropbox >}} {{< fa pen >}}
+
+- Krogstad, Jens M., Khadijah Edwards, and Mark H. Lopez. 2022. "Most Latinos Say Democrats Care About Them and Work Hard for Their Vote, Far Fewer Say So of GOP." PEW [report], September 29. [{{< fa link >}}](https://www.pewresearch.org/race-and-ethnicity/2022/09/29/most-latinos-say-democrats-care-about-them-and-work-hard-for-their-vote-far-fewer-say-so-of-gop/)
+
+
+### Wednesday, April 1
+
+- Ocampo, Angela X., and John Ray. 2020. "Many Are Called but Few Are Chosen: The Emergence of Latino Congressional Candidates." *Politics, Groups, and Identities* 8(4): 738–61. {{< fa brands dropbox >}}
+
+- Phan, Juliana. 2024. "10 Facts About Latino Representation in Congress." UCLA Latino Policy & Politics Institute. Report, October 28. [{{< fa link >}}](https://latino.ucla.edu/research/latino-representation-in-congress/)
+

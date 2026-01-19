@@ -1,0 +1,25 @@
+---
+title: "Week 9: The Politics of Immigration"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 9 - The Politics of Immigration
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+
+### Monday, March 16
+
+- Pérez, Efrén O. 2016. "Ghost in the Associative Machine." In *Unspoken Politics: Implicit Attitudes and Political Thinking,* 54-76. Cambridge University Press. {{< fa brands dropbox >}}
+
+- Goodman, Adam. 2020. "Manufacturing Crisis and Fomenting Fear at the Dawn of the Age of Mass Expulsion. In *The Deportation Machine: America’s Long History of Expelling Immigrants,* 107-133. Princeton: Princeton University Press. {{< fa brands dropbox >}}
+
+
+### Wednesday, March 18
+
+- Hopkins, Daniel J., Yotam Margalit, and Omer Solodoch. 2024. "Personal Economic Shocks and Public Opposition to Unauthorized Immigration." British Journal of Political Science 54(3): 928–36. {{< fa brands dropbox >}} {{< fa pen >}}
+

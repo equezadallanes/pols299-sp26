@@ -1,0 +1,79 @@
+---
+title: "Final paper"
+format:
+    html: default
+    pdf: 
+      documentclass: article
+      fontsize: 11pt
+      colorlinks: true
+      citecolor: DarkViolet
+      linkcolor: DarkViolet
+      urlcolor: DarkViolet
+      geometry: margin=1in
+      subtitle: | 
+        | POLS299-S12 - Latine Politics in the U.S. \vspace{1em}
+        | Professor Enrique Quezada-Llanes \vspace{-3em}
+---
+
+:::{.callout-important}
+
+Due May 4 at 11:59 pm on Canvas
+
+:::
+
+
+
+## Purpose
+
+Learn how to engage in a conversation with the scholarly literature in a topic. In the process, you will learn to identify key ideas and evidence in the literature and find where you can contribute new ideas or test existing assumptions (skills that extend beyond school!).
+
+
+## Task
+
+Write a research design paper of at least 8 double-spaced pages (12-point font, 1-inch margins) that includes the following sections:
+
+1. Introduction
+2. Literature Review
+3. Theory
+4. Research Design
+5. Conclusion
+
+By now, you have already written drafts of sections 2-4. You must revise these drafts according to the feedback you received and add an introduction and conclusion.
+
+
+## Criteria for success
+
+A successful research design paper:
+
+1. Presents a clear and well-motivated research question
+2. Identifies the relevant literature and where the paper fits within that body of work
+3. Presents two testable and falsifiable hypotheses with appropriate justification/explanation
+4. Discusses implications of the work
+
+
+Additionally, pay attention to the following:
+
+- Include a properly formatted reference page using APSA style.
+- Proofread your paper so that there are no grammatical or punctuation mistakes. This includes capitalization and placement of quotation marks after punctuation. In case of doubt, use Google and the resources in the ["Writing" section](../resource/writing.qmd) of this website. I encourage you to use [Grammarly](https://www.grammarly.com/) as well.
+
+
+## Writing an Introduction
+
+The introduction should do all the following:
+
+1. Motivate the paper (make the reader care, maybe use an example)
+2. Establish the purpose of the paper (you can use the research question)
+3. What do other authors say about this (what do we know)
+4. Identify the gap (what don't we know yet)
+5. What you argue
+6. Your method
+7. Main findings (you don't need this for this paper)
+8. Implications
+
+Since your paper is relatively short, your introduction will be one or two paragraphs. Spend one sentence (max. 2) for each of the points above.
+
+
+## Writing a Conclusion
+
+You conclusion should first reiterate the purpose of the paper and the methodology. Then you should discuss the limitations of your research design and the implications of your theory if you were to find supportive evidence for your hypotheses.
+

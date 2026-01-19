@@ -1,0 +1,28 @@
+---
+title: "Week 8: Latines as Others"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 8 - Latines as Others
+
+:::
+
+
+
+[//]: <> (Need to write intro)
+
+### Monday, March 9
+
+- Zou, Linda X., and Sapna Cheryan. 2017. “Two Axes of Subordination: A New Model of Racial Position.” Journal of Personality and Social Psychology 112(5): 696–717. {{< fa brands dropbox >}} {{< fa pen >}}
+
+- de la Garza, Rodolfo O., Angelo Falcon, and F. Chris Garcia. 1996. "Will The Real Americans Please Stand Up: Anglo and Mexican-American Support of Core American Political Values." *American Journal of Political Science* 40(2): 335–51. {{< fa brands dropbox >}}
+
+
+### Wednesday, March 11
+
+- Darr, Joshua P., Brittany N. Perry, Johanna L. Dunaway, and Mingxiao Sui. 2020. "Seeing Spanish: The Effects of Language-Based Media Choices on Resentment and Belonging." *Political Communication* 37(4): 488–511. {{< fa brands dropbox >}}
+
+
+
+ 

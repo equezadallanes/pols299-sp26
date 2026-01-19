@@ -1,0 +1,28 @@
+---
+title: "Week 2: Latine Identity"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Q1: Are Latines a Distinct Racial Group?
+
+## Week 2 - Latine Identity
+
+:::
+
+### Monday, January 26
+
+- Mora, G. Cristina. 2014. "Making Hispanics: Classification and the Politics of Ambiguity." In *Making Hispanics: How Activists, Bureaucrats, and Media Constructed a New American,* 1-16. Chicago: The University of Chicago press. {{< fa book >}} {{< fa pen >}}
+
+- Beltrán, Cristina. 2010. "Introduction: Sleeping Giants and Demographic Floods." In *The Trouble with Unity: Latino Politics and the Creation of Identity,* 3-19. New York, NY: Oxford University Press. {{< fa brands dropbox >}}
+
+
+### Wednesday, January 28
+
+- Noe-Bustamante, Luis, Lauren Mora, and Mark Hugo Lopez. 2020. ``About One-in-Four U.S. Hispanics Have Heard of Latinx, but Just 3\% Use It.'' *Pew Research Center.* [{{< fa link >}}](https://www.pewresearch.org/hispanic/2020/08/11/about-one-in-four-u-s-hispanics-have-heard-of-latinx-but-just-3-use-it/)
+
+- Vicuña, Bianca V., and Efrén O. Pérez. 2023. "New Label, Different Identity? Three Experiments on the Uniqueness of Latinx." *Politics, Groups, and Identities* 11(3): 677–84. {{< fa brands dropbox >}}
+
+ 
+
+

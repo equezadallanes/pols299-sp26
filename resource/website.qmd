@@ -1,0 +1,14 @@
+---
+title: "This Course and Website"
+---
+
+This course relies on the materials created and used by Elena Llaudet (Suffolk University) for her textbook *Data Analysis for Social Science* (co-authored with Kosuke Imai).
+
+This website was built using [Quarto](https://quarto.org/docs/websites/) and [RStudio](https://posit.co/downloads/), and is based on the course website by Andrew Heiss (at [https://evalf22.classes.andrewheiss.com/](https://evalf22.classes.andrewheiss.com/)) along with the changes made by Matt Blackwell (at [https://gov50.mattblackwell.org](https://gov50.mattblackwell.org)). 
+
+The site is hosted on Github.
+
+
+
+
+

@@ -1,0 +1,39 @@
+---
+title: "Weekly Summaries"
+---
+
+:::{.callout-important}
+Due before the beginning of class the day the reading is assigned (submit on Canvas)
+:::
+
+## Purpose
+
+The goal of this assignment is twofold. First, it will help you practice reading with purpose to find the key pieces of information. Second, it will help you practice summarizing social scientific research.
+
+
+## Task
+
+Write a summary for the indicated reading in a given week. The summary must be no longer than three-quarters of a page (single-spaced, 12-point font, 1-inch margins).
+
+There are three unique parts to this summary:
+
+1. Full citation in APSA style
+2. Summary (follow these [guidelines](../resource/summaries.qmd))
+3. A couple sentences on your own critique of the reading (how it applies or not to your understanding of current events)
+
+
+## Criteria for Success
+
+A successful summary will identify and communicate:
+
+1. The purpose and argument of the piece
+2. The type of evidence used to test the argument
+3. The main findings
+4. The implications of the findings for what we know about the topic more generally
+5. Includes a full citation and a critique/application of the reading
+
+## Resources
+
+[Click here](../resource/summaries.qmd)
+
+

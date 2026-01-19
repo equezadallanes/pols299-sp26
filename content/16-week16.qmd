@@ -1,0 +1,28 @@
+---
+title: "Week 16: Multiracial Coalitions?"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 16 - Multiracial Coalitions?
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+### Monday, May 4
+
+- Pérez, Efrén O. 2021. *Diversity’s Child: People of Color and the Politics of Identity.* Chicago London: The University of Chicago Press. Chapters 1 and 5. {{< fa brands dropbox >}} ({{< fa pen >}} Ch. 5) 
+
+
+
+:::{.callout-important}
+
+### Deadline
+
+[Final Draft of Research Design Paper](/assignment/research-project4.qmd) due Monday, May 4, at 11:59 pm on Canvas
+
+:::
+
+

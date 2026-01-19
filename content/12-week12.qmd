@@ -1,0 +1,29 @@
+---
+title: "Week 12: Theory and Research Design"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 12 - Theory and Research Design
+
+:::
+
+[//]: <> (Need to write intro)
+
+
+
+### Monday, April 6
+
+- NO CLASS. Easter Break.
+
+
+
+### Wednesday, April 8
+
+- Lave, Charles A., and James G. March. 1993. *An Introduction to Models in the Social Sciences.* Lanham, MD: University Press of America. Chapter 2. {{< fa brands dropbox >}}
+
+
+
+
+
+ 

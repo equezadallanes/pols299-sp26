@@ -1,0 +1,27 @@
+---
+title: "Week 15: Multiracial Coalitions?"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Q4: Do Latines Have Solidarity with Other People of Color?
+
+## Week 15 - Multiracial Coalitions?
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+### Monday, December 2
+
+- Gay, Claudine. 2006. "Seeing Difference: The Effect of Economic Disparity on Black Attitudes toward Latinos." *American Journal of Political Science* 50(4): 982–97. {{< fa brands dropbox >}}
+
+- Pérez, Efrén, Crystal Robertson, and Bianca Vicuña. 2023. "Prejudiced When Climbing Up or When Falling Down? Why Some People of Color Express Anti-Black Racism." *American Political Science Review* 117(1): 168–83. {{< fa brands dropbox >}}
+
+
+### Wednesday, December 4
+
+- Robertson, Crystal, and Marcel F. Roman. 2024. "The Wages of Latinidad: How Immigration Enforcement Mitigates Anti-Black Assimilation." *Political Behavior* 46(2): 1127–49. {{< fa brands dropbox >}} {{< fa pen >}}
+
+

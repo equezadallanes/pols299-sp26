@@ -1,0 +1,51 @@
+---
+title: "Theory and Research Design"
+format:
+    html: default
+    pdf: 
+      documentclass: article
+      fontsize: 11pt
+      colorlinks: true
+      citecolor: DarkViolet
+      linkcolor: DarkViolet
+      urlcolor: DarkViolet
+      geometry: margin=1in
+      subtitle: | 
+        | POLS299-S12 - Latine Politics in the U.S. \vspace{1em}
+        | Professor Enrique Quezada-Llanes \vspace{-3em}
+---
+
+:::{.callout-important}
+Due April 17 at 11:59 pm on Canvas
+:::
+
+
+## Purpose
+
+As you move toward the final paper, it is important to develop a theory and hypotheses (i.e., an explanation and expectations). In addition, you must think about how you can empirically test those hypotheses.
+
+
+## Task
+
+Add 3 to 5 pages of theory and design to your literature review paper (double-spaced, 12-point font, 1-inch margins).
+
+In these pages, you should put forth an explanation for what you think the answer might be. Based on this explanation, write down your hypotheses (you may have one or more). Here, you should be clear about your theoretical concepts. (Title this section ``Theory.'')
+
+Next, describe how you will test those hypotheses. What data will you use? Is it an existing dataset? What questions are you using to measure your concepts of interest? Is it a survey experiment? (Title this section ``Methodology.'')
+
+At this point, your paper should have an introduction, literature review, theory, and research design.
+
+
+## Criteria for success
+
+A successful theory and research design sections will:
+
+1. Identify the theoretical concepts of interest (i.e., what are you trying to explain and how are you trying to explain it)
+2. Lay out clear expectations and provide a justification for them using existing peer-reviewed research.
+3. Use strong and clear topic sentences to convey the key points.
+4. Discuss what data you would use to empirically test your expectations. Specify the relevant variables as much as possible.
+5. Have a coherent structure and no grammatical errors
+
+
+
+

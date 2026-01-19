@@ -1,0 +1,23 @@
+---
+title: "Week 1: Introduction and Social Scientific Thinking"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 1 - Introduction and Social Scientific Thinking
+
+:::
+
+
+### Wednesday, January 21
+
+- [Syllabus](../index.qmd)
+
+- Lave, Charles A., and James G. March. 1993. *An Introduction to Models in the Social Sciences.* Lanham, MD: University Press of America. Chapter 1. {{< fa brands dropbox >}}
+
+- Lave, Charles A., and James G. March. 1993. *An Introduction to Models in the Social Sciences.* Lanham, MD: University Press of America. Chapter 2: *only* section 2.9. {{< fa brands dropbox >}}
+
+
+
+
+

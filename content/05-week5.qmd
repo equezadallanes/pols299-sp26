@@ -1,0 +1,36 @@
+---
+title: "Week 5: Historical Context"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Q2: Are Latines American?
+
+## Week 5 - Historical Context
+
+:::
+
+[//]: <> (Need to write intro)
+
+
+### Monday, February 16
+
+- Gutiérrez, David. 1995. "Legacies of Conquest." In *Walls and Mirror,* 13-38. University of California Press. Berkeley: CA. {{< fa brands dropbox >}}
+
+
+### Wednesday, February 18
+
+- Gutiérrez, David. 1995. "Economic Development and Immigration, 1890-1920." In *Walls and Mirror,* 39-68. University of California Press. Berkeley: CA. {{< fa brands dropbox >}} {{< fa pen >}}
+
+- PEW. 2015. "Chapter 1: The Nation's Immigration Laws, 1920 to Today." [report], September 28. [{{< fa link >}}](https://www.pewresearch.org/hispanic/2015/09/28/chapter-1-the-nations-immigration-laws-1920-to-today/)
+
+
+
+:::{.callout-important}
+
+### Deadline
+
+[Research question and list of literature](/assignment/research-project1.qmd) due Friday, February 20, at 11:59 pm on Canvas
+
+:::
+

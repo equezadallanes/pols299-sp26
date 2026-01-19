@@ -1,0 +1,91 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "POLS 299-S12: Latine Politics in the U.S."
+  site-url: "https://pols299.sp26.equezadallanes.com/"
+  
+  navbar:
+    pinned: true
+    background: "#602D89"
+    right:
+      - text: "Syllabus"
+        file: index.qmd
+      - text: "Weekly Schedule"
+        file: content/index.qmd
+      - text: "Assignments"
+        file: assignment/index.qmd
+      - text: "Resources"
+        file: resource/index.qmd
+
+  sidebar:
+    - title: "Assignments"
+      style: "docked"
+      search: false
+      background: dark
+      contents:
+        - section: "Overview"
+          contents:
+            - assignment/index.qmd
+        - section: "Assignments"
+          contents:
+            - assignment/weekly-summaries.qmd
+            - assignment/discussion.qmd
+            - assignment/response-paper.qmd
+        - section: "Research Design Paper"
+          contents: 
+            - assignment/research-project1.qmd
+            - assignment/research-project2.qmd
+            - assignment/research-project3.qmd
+            - assignment/research-project4.qmd
+            
+    - title: "Content"
+      contents:
+        - section: "Overview"
+          contents:
+            - content/index.qmd
+        - section: "Week"
+          contents:
+            - content/01-week1.qmd
+            - content/02-week2.qmd
+            - content/03-week3.qmd
+            - content/04-week4.qmd
+            - content/05-week5.qmd
+            - content/06-week6.qmd
+            - content/08-week8.qmd
+            - content/09-week9.qmd
+            - content/10-week10.qmd
+            - content/11-week11.qmd
+            - content/12-week12.qmd
+            - content/13-week13.qmd
+            - content/14-week14.qmd
+            - content/15-week15.qmd
+            - content/16-week16.qmd
+            - content/17-week17.qmd
+    
+    - title: "Resources"
+      contents:
+        - section: "Overview"
+          contents:
+            - resource/index.qmd
+            - resource/reading.qmd
+            - resource/writing.qmd
+            - resource/peer_review.qmd
+            - resource/summaries.qmd
+            - resource/citations.qmd
+            - resource/website.qmd
+
+
+format:
+  html:
+    theme:
+      - litera
+      - html/custom.scss
+    toc: true
+    link-external-newwindow: true
+    highlight-style: monokai
+
+  
+resources: 
+  - CNAME
