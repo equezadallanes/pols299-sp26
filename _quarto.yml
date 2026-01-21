@@ -45,21 +45,27 @@ website:
         - section: "Overview"
           contents:
             - content/index.qmd
-        - section: "Week"
+        - section: "Q1: Are Latines a Distinct Racial Group?"
           contents:
             - content/01-week1.qmd
             - content/02-week2.qmd
             - content/03-week3.qmd
             - content/04-week4.qmd
+        - section: "Q2: Are Latines American?"
+          contents:
             - content/05-week5.qmd
             - content/06-week6.qmd
             - content/08-week8.qmd
             - content/09-week9.qmd
+        - section: "Q3: Are Democrats the Party of Latines?"
+          contents:
             - content/10-week10.qmd
             - content/11-week11.qmd
             - content/12-week12.qmd
             - content/13-week13.qmd
             - content/14-week14.qmd
+        - section: "Q4: Do Latines Have Solidarity with Other People of Color?"
+          contents:
             - content/15-week15.qmd
             - content/16-week16.qmd
             - content/17-week17.qmd
